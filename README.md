@@ -3,7 +3,7 @@
 
 - 🧠 I’m learning **Fullstack**
 
-- 🖥️ See my portfolio at [https://github.com/Lilas12](https://github.com/Lilas12)
+- 🖥️ See my portfolio at [https://www.lilasalnesr.com/](https://www.lilasalnesr.com/)
 
 - 📫 How to reach me **lelas.alneser@gmail.com**
 
